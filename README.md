@@ -1,2 +1,3 @@
 # ToLearnLink
-https://alexandreesl.com/tag/spring-boot/
+https://alexandreesl.com
+https://javabeginnerstutorial.com
